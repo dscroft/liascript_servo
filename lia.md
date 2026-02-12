@@ -50,7 +50,7 @@ window.connection.on('logger', function(msg)
 This interface requires a specific sketch to be running on the Arduino board.
 If you have not already done so, upload it to the board now.
 
-<iframe frameborder="0" src="assets/upload.html"></iframe>
+[Go to uploader page](assets/upload.html)
 
 --------------------------
 
